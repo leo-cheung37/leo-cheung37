@@ -5,7 +5,7 @@ Welcome to join my learning journey on statistic, data anaylsis and software dev
 
 ## 📚 My current topic
 - Learn Basic Statistics
-- Learn Mermaid Diagram
+- Learn How to use Github
 
 _Includes project development & knowledge learning_
 
