@@ -5,6 +5,7 @@ Welcome to join my learning journey on statistic, data anaylsis and software dev
 
 ## 📚 My current topic
 - Learn Basic Statistics
+  - Using HK Temperature data, try do basic Descriptive Statistics & Plot Graph in python
 - Learn How to use Github
 
 _Includes project development & knowledge learning_
