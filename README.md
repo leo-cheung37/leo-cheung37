@@ -3,17 +3,17 @@ Welcome to join my learning journey on statistic, data anaylsis and software dev
 
 <br/>
 
-## 📚 My current topic
-- Learn Basic Statistics
-  - Using HK Temperature data, try do basic Descriptive Statistics & Plot Graph in python
-- Learn How to use Github
+## 📚 My current topic  
+- (23 Nov - ) Practice Driven Learning Path:
+  - Pick several datasets from Kaggle, to do EDA (Exploratory Data Analysis) and write down observation.
+  - Try to do some CDA (Confirmatory Data Analysis)
 
 _Includes project development & knowledge learning_
 
 <br/>
 
 ## 🤔 My Idea (Pending to do)
-- Try to some anaylsis with [DataGov data](https://data.gov.hk/)
+- Try to some anaylsis with [DataGov data](https://data.gov.hk/) & [Kaggle](https://www.kaggle.com/)
 - Visualize Data anaylsis
 
 _Could be changed Anytime_
@@ -23,6 +23,13 @@ _Could be changed Anytime_
 ## ☑️ Completed Personal Project
 Nothing Now. Ha Ha 🤣
 
+<br/>
+
+## ✨ Completed topics
+- Learn Basic Statistics (27 Oct - 22 Nov)
+  - Using HK Temperature/GDP/RainFall/ Kaggle's coffee_shop_sales data, try do basic Descriptive Statistics & Plot Graph in python
+- Learn How to use Github (22 Oct - 22 Nov)
+  - Basic commands like "git status", "git add .", "git commit -m 'xxx'", "git push" & "git log"
 <br/>
 
 ## 🔎 Basic Structure of my personal project
@@ -37,6 +44,7 @@ Nothing Now. Ha Ha 🤣
 Always keep learning and improving.
 ### 📖 Knowledge
 - Statistics
+  - EDA (Exploratory Data Analysis)
 - Anaylsis Skills
 - ML
 - AI
